@@ -1,4 +1,4 @@
-from game import TicTacToe
+from TicTacToe import TicTacToe
 
 
 if __name__ == '__main__':

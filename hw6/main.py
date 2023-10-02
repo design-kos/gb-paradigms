@@ -19,7 +19,7 @@ def binary_search(arr: List[int], number: int) -> int:
 
 
 def main():
-    arr = [1, 2, 7, 6, 11, 33, 45]
+    arr = [2, 19, 1, 6, 33, 34, 155, 98, 11]
 
     print(f"Исходный массив: {arr}")
     number = int(input("Введите искомый элемент: "))
